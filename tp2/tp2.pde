@@ -1,4 +1,4 @@
-
+// Rocío Belén Amaya. Legajo:118957/6. Comisión 2.
 PImage mate;
 
 String estado;
